@@ -1,0 +1,17 @@
+스킬 인덱스,스킬 이름 (en),스킬 이름 (kr),스킬 타겟팅 타입,등급,Max 강화 증가,Max 강화 최대,(HP & 공격력 & 방어력) 증가,피해증가%
+21000,ThunderStrike,번개의 일격,Normal,Common,1,15,1.0%,2%
+21015,AdventOfDarkness,어둠의 강림,Normal,Rare,2,30,4.0%,16%
+21006,PoisonSmoke,독성의 안개,Normal,Common,1,15,1.0%,2%
+21012,BurningMeteor,불타는 유성,Drop,Common,1,15,1.0%,2%
+21001,MeteorShower,분노의 화염,Range,Magic,1,20,1.5%,4%
+21007,GroundBeam,대지의 분노,Normal,Magic,1,20,1.5%,4%
+21013,FragmentOfPosion,독성의 파편,Drop,Magic,1,20,1.5%,4%
+21002,ShellOfCurse,저주의 포탄,Drop,Elaboration,2,25,2.2%,8%
+21010,BlueFlash,푸른 섬광,Range,Excellent,3,35,8.0%,20%
+21014,AngerOfAbyss,심연의 분노,Drop,Elaboration,2,25,2.2%,8%
+21003,AmbushOfTentacle,촉수의 기습,Normal,Rare,2,30,4.0%,16%
+21009,SpinSlash,회전베기,Range,Rare,2,30,4.0%,16%
+21004,BreathOfIce,얼음의 숨결,Normal,Excellent,3,35,8.0%,20%
+21005,RageOfIceWall,빙벽의 폭주,Normal,Epic,3,40,16.0%,25%
+21011,RageOfElectron,전자의 폭주,Range,Epic,3,40,16.0%,25%
+21008,FloodOfFlame,불꽃의 홍수,Range,Elaboration,2,25,2.2%,8%

@@ -1,0 +1,16 @@
+Index,Hero_Name,SlotType,등급
+1000,RtanCommon,Rtan_Common,Common
+1001,RtanMagic,Rtan_Magic,Magic
+1002,RtanElaboration,Rtan_Elaboration,Elaboration
+1003,RtanRare,Rtan_Rare,Rare
+1004,WarriorCommon,Warrior_Common,Common
+1005,MageCommon,Mage_Common,Common
+1006,RogueCommon,Rogue_Common,Common
+1007,ArcherMagic,Archer_Magic,Magic
+1008,PaladinMagic,Paladin_Magic,Magic
+1009,HunterMagic,Hunter_Magic,Magic
+1010,ShamanElaboration,Shaman_Elaboration,Elaboration
+1011,PriestElaboration,Priest_Elaboration,Elaboration
+1012,SummonerElaboration,Summoner_Elaboration,Elaboration
+1013,KnightRare,Knight_Rare,Rare
+1014,AssassinRare,Assassin_Rare,Rare

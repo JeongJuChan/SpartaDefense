@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba3f6e4b11af240238ce19fe45228046, type: 3}
+  m_Name: ColleagueSummonProbabilityDataSO
+  m_EditorClassIdentifier: 
+  datas:
+  - level: 1
+    proportionArray: 701101003075000000000000000000000000000000000000
+  - level: 2
+    proportionArray: e8fd000008840000b0040000000000000000000000000000
+  - level: 3
+    proportionArray: fef10000488a0000280a0000320000000000000000000000
+  - level: 4
+    proportionArray: 78e60000948e0000cc100000c80000000000000000000000
+  - level: 5
+    proportionArray: c0da00007094000076160000fa0000000000000000000000
+  - level: 6
+    proportionArray: f0d2000064960000201c00002c0100000000000000000000
+  - level: 7
+    proportionArray: 20cb000058980000ca2100005e0100000000000000000000
+  - level: 8
+    proportionArray: 50c300004c9a000074270000900100000000000000000000
+  - level: 9
+    proportionArray: c8af0000f8a700001e2d0000c20100000000000000000000
+  - level: 10
+    proportionArray: 409c000098b70000d4300000f40100000000000000000000

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BlueCrab
+  m_Controller: {fileID: 9100000, guid: f2c9d1ba3a217d54aab8b7c6ba1cfe8e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 81d8cbe4a0f3ad4469a76446b7d8f9cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c5e05b8f5117db34182381487655a32d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9cef66360b4602544af094178a7409e0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 516f8ccb3a592af4ea44d11787050ee9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ecfc560bcd6402f45b0f31deedc15fe2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 853e06e57de0de94e9572b999cfbad7e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c697bbcc5f52c9544ad2a409530b028c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0a49ef322a47a794ca5793ec4c1eeab6, type: 2}

@@ -1,0 +1,8 @@
+AbilityOptionEffectType,Probability
+Damage,0.18
+Defense,0.12
+HP,0.28
+AttackSpeedRate,0.112
+CirticalProbability,0.107
+CriticalMultiplication,0.09
+Heal,0.111

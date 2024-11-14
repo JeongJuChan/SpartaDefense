@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f928299d2a3ffe648a56b4829b1e7259, type: 3}
+  m_Name: GrowthDataSO
+  m_EditorClassIdentifier: 
+  datas:
+  - growthLevel: 1
+    desiredForgeLevel: 2
+    levelUpMax: 30
+    currencyBasePerGrowthLevel: 1
+    currencyIncrementPerGrowthLevel: 1
+    incrementsPerGrowthLevel: 010000000a00000001000000
+  - growthLevel: 2
+    desiredForgeLevel: 3
+    levelUpMax: 60
+    currencyBasePerGrowthLevel: 5
+    currencyIncrementPerGrowthLevel: 5
+    incrementsPerGrowthLevel: 020000001400000001000000
+  - growthLevel: 3
+    desiredForgeLevel: 4
+    levelUpMax: 90
+    currencyBasePerGrowthLevel: 10
+    currencyIncrementPerGrowthLevel: 10
+    incrementsPerGrowthLevel: 050000003200000001000000
+  - growthLevel: 4
+    desiredForgeLevel: 5
+    levelUpMax: 150
+    currencyBasePerGrowthLevel: 1
+    currencyIncrementPerGrowthLevel: 1
+    incrementsPerGrowthLevel: 010000000a00000001000000
+  - growthLevel: 5
+    desiredForgeLevel: 6
+    levelUpMax: 200
+    currencyBasePerGrowthLevel: 1
+    currencyIncrementPerGrowthLevel: 1
+    incrementsPerGrowthLevel: 010000000a00000001000000
+  - growthLevel: 6
+    desiredForgeLevel: 7
+    levelUpMax: 250
+    currencyBasePerGrowthLevel: 1
+    currencyIncrementPerGrowthLevel: 1
+    incrementsPerGrowthLevel: 010000000a00000001000000
+  - growthLevel: 7
+    desiredForgeLevel: 8
+    levelUpMax: 300
+    currencyBasePerGrowthLevel: 1
+    currencyIncrementPerGrowthLevel: 1
+    incrementsPerGrowthLevel: 010000000a00000001000000
+  - growthLevel: 8
+    desiredForgeLevel: 9
+    levelUpMax: 350
+    currencyBasePerGrowthLevel: 1
+    currencyIncrementPerGrowthLevel: 1
+    incrementsPerGrowthLevel: 010000000a00000001000000
+  - growthLevel: 9
+    desiredForgeLevel: 10
+    levelUpMax: 400
+    currencyBasePerGrowthLevel: 1
+    currencyIncrementPerGrowthLevel: 1
+    incrementsPerGrowthLevel: 010000000a00000001000000
+  - growthLevel: 10
+    desiredForgeLevel: 11
+    levelUpMax: 450
+    currencyBasePerGrowthLevel: 1
+    currencyIncrementPerGrowthLevel: 1
+    incrementsPerGrowthLevel: 010000000a00000001000000

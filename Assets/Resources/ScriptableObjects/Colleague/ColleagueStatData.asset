@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac10101e1860cf245935cf7d7ec4fb26, type: 3}
+  m_Name: ColleagueStatData
+  m_EditorClassIdentifier: 
+  datas:
+  - index: 0
+    rank: 4
+    colleagueType: 4
+    maxLevel: 100
+    baseDamage: 340
+    baseHealth: 330
+    baseDefense: 10
+    statIncrementPerLevel: 7
+  - index: 1
+    rank: 1
+    colleagueType: 5
+    maxLevel: 100
+    baseDamage: 20
+    baseHealth: 10
+    baseDefense: 25
+    statIncrementPerLevel: 2
+  - index: 2
+    rank: 1
+    colleagueType: 6
+    maxLevel: 100
+    baseDamage: 10
+    baseHealth: 30
+    baseDefense: 15
+    statIncrementPerLevel: 2
+  - index: 3
+    rank: 1
+    colleagueType: 7
+    maxLevel: 100
+    baseDamage: 15
+    baseHealth: 10
+    baseDefense: 30
+    statIncrementPerLevel: 2
+  - index: 4
+    rank: 2
+    colleagueType: 8
+    maxLevel: 100
+    baseDamage: 25
+    baseHealth: 30
+    baseDefense: 65
+    statIncrementPerLevel: 3
+  - index: 5
+    rank: 2
+    colleagueType: 9
+    maxLevel: 100
+    baseDamage: 50
+    baseHealth: 35
+    baseDefense: 35
+    statIncrementPerLevel: 3
+  - index: 6
+    rank: 2
+    colleagueType: 10
+    maxLevel: 100
+    baseDamage: 35
+    baseHealth: 45
+    baseDefense: 40
+    statIncrementPerLevel: 3
+  - index: 7
+    rank: 3
+    colleagueType: 11
+    maxLevel: 100
+    baseDamage: 55
+    baseHealth: 125
+    baseDefense: 320
+    statIncrementPerLevel: 5
+  - index: 8
+    rank: 3
+    colleagueType: 12
+    maxLevel: 100
+    baseDamage: 110
+    baseHealth: 150
+    baseDefense: 240
+    statIncrementPerLevel: 5
+  - index: 9
+    rank: 3
+    colleagueType: 13
+    maxLevel: 100
+    baseDamage: 145
+    baseHealth: 110
+    baseDefense: 245
+    statIncrementPerLevel: 5
+  - index: 10
+    rank: 4
+    colleagueType: 14
+    maxLevel: 100
+    baseDamage: 400
+    baseHealth: 350
+    baseDefense: 250
+    statIncrementPerLevel: 7
+  - index: 11
+    rank: 4
+    colleagueType: 15
+    maxLevel: 100
+    baseDamage: 305
+    baseHealth: 215
+    baseDefense: 480
+    statIncrementPerLevel: 7

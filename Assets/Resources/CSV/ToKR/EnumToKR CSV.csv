@@ -1,0 +1,77 @@
+Enum,index,영문,한글
+AttributeType,1,AttackSpeedRate,공격 속도
+AttributeType,2,CriticalProbability,치명타 확률
+AttributeType,3,CriticalMultiplication,치명타 증폭
+AttributeType,4,Heal,회복
+Rank,1,Common,일반
+Rank,2,Magic,매직
+Rank,3,Elaboration,정교
+Rank,4,Rare,레어
+Rank,5,Excellent,탁월
+Rank,6,Epic,에픽
+ColleagueType,4,Rtan_Rare,르탄
+ColleagueType,5,Warrior_Common,전사
+ColleagueType,6,Mage_Common,마법사
+ColleagueType,7,Rogue_Common,도적
+ColleagueType,8,Archer_Magic,궁수
+ColleagueType,9,Paladin_Magic,성기사
+ColleagueType,10,Hunter_Magic,사냥꾼
+ColleagueType,11,Shaman_Elaboration,주술사
+ColleagueType,12,Priest_Elaboration,사제
+ColleagueType,13,Summoner_Elaboration,소환사
+ColleagueType,14,Knight_Rare,기사
+ColleagueType,15,Assassin_Rare,어쎄신
+CurrencyType,1,Gold,골드
+CurrencyType,2,Gem,젬
+CurrencyType,3,ForgeTicket,성문 소환권
+CurrencyType,4,ColleagueLevelUpStone,영웅 강화석
+CurrencyType,5,Exp,골드 던전 티켓
+CurrencyType,6,GoldDungeonTicket,골드 던전 티켓
+CurrencyType,7,ForgeDungeonTicket,성문 소환 던전 티켓
+CurrencyType,8,GemDungeonTicket,젬 던전 티켓
+CurrencyType,9,ColleagueLevelUpDungeonTicket,영웅 강화석 던전 티켓
+CurrencyType,10,AccelerationTicket,가속 티켓
+CurrencyType,11,AbilityPoint,어빌리티 스톤
+CurrencyType,12,ColleagueSummonTicket,영웅 소환권
+StatType,1,Damage,공격력
+StatType,2,HP,체력
+StatType,3,Defense,방어력
+FeatureID,1,BottomBar_Castle,캐슬
+FeatureID,2,BottomBar_Summon,소환
+FeatureID,3,BottomBar_Colleague,영웅
+FeatureID,4,BottomBar_Equipment,장비
+FeatureID,5,BottomBar_Dungeon,던전
+FeatureID,6,BottomBar_Kingdom,왕국
+FeatureID,7,Summon_Colleague,영웅 소환
+FeatureID,8,Dungeon_Forge,던전-드래곤의 둥지
+FeatureID,9,Dungeon_Gold,던전-야생 돼지 숲
+FeatureID,10,Dungeon_Gem,던전-저주받은 숲
+FeatureID,11,Dungeon_ColleagueLevelUpStone,던전-지하 동굴
+FeatureID,12,CastleDoorProbabilityButton,성문 레벨업
+FeatureID,13,Forge_AutoForge,자동
+FeatureID,14,ColleagueSlot_1,영웅 슬롯 1
+FeatureID,15,ColleagueSlot_2,영웅 슬롯 2
+FeatureID,16,ColleagueSlot_3,영웅 슬롯 3
+FeatureID,17,ColleagueSlot_4,영웅 슬롯 4
+FeatureID,18,ColleagueSlot_5,영웅 슬롯 5
+FeatureID,19,ColleagueSlot_6,영웅 슬롯 6
+FeatureID,20,ColleagueSlot_7,영웅 슬롯 7
+FeatureID,21,ColleagueSlot_8,영웅 슬롯 8
+FeatureID,22,ColleagueSlot_9,영웅 슬롯 9
+FeatureID,23,ColleagueSlot_10,영웅 슬롯 10
+FeatureID,24,Kingdom_Barracks,왕국-병영
+FeatureID,25,Kingdom_Laboratory,왕국-연구소
+FeatureID,26,Kingdom_KingsRoad,왕국-킹스로드
+FeatureID,27,Kingdom_TheDoor,왕국-초월의 문
+FeatureID,28,Kingdom_CastleBattle,왕국-공성전
+FeatureID,29,Barracks_1,병영-병사1
+FeatureID,30,Barracks_2,병영-병사2
+FeatureID,31,Barracks_3,병영-병사3
+FeatureID,32,Barracks_4,병영-병사4
+FeatureID,33,Barracks_5,병영-병사5
+FeatureID,34,Encyclopedia,도감
+FeatureID,35,DailyQuest,일일 퀘스트
+FeatureID,36,BottomBar_Growth,성장
+SkillTargetingType,1,Normal,단일
+SkillTargetingType,2,Range,범위
+SkillTargetingType,3,Drop,멀티

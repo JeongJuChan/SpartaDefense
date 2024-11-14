@@ -1,0 +1,7 @@
+CategoryName,AbilityType,LevelPerAbility,ArithmeticStatType
+Common,Damage,5,Base
+Magic,Defense,10,Base
+Elaboration,Health,15,Base
+Rare,Damage,20,Base
+Excellent,Health,25,Base
+Epic,Defense,50,Base

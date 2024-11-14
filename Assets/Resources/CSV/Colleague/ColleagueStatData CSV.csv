@@ -1,0 +1,13 @@
+Index,등급,직업,최대 레벨,공격력,HP,방어력,기본 레벨당
+0,Rare,Rtan_Rare,100,340,330,10,7
+1,Common,Warrior_Common,100,20,10,25,2
+2,Common,Mage_Common,100,10,30,15,2
+3,Common,Rogue_Common,100,15,10,30,2
+4,Magic,Archer_Magic,100,25,30,65,3
+5,Magic,Paladin_Magic,100,50,35,35,3
+6,Magic,Hunter_Magic,100,35,45,40,3
+7,Elaboration,Shaman_Elaboration,100,55,125,320,5
+8,Elaboration,Priest_Elaboration,100,110,150,240,5
+9,Elaboration,Summoner_Elaboration,100,145,110,245,5
+10,Rare,Knight_Rare,100,400,350,250,7
+11,Rare,Assassin_Rare,100,305,215,480,7

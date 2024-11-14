@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a9bdbc57d42d4b4eaf751858a09c8f6, type: 3}
+  m_Name: DialogueData
+  m_EditorClassIdentifier: 
+  datas:
+  - type: 1
+    index: 0
+    dialogueDescription: "\uC5B4\uC11C\uC640~ \uC2A4\uD30C\uB974\uD0C0 \uAD70\uC778\uC740
+      \uCC98\uC74C\uC774\uC9C0?/n\uC6B0\uC120 \uB0B4 \uD65C \uC19C\uC528\uB97C \uBCF4\uC5EC\uC904\uAC8C."
+    questArriveNum: 1
+  - type: 2
+    index: 1
+    dialogueDescription: "\uC624\uB798\uB41C \uC7A5\uBE44 \uD0D3\uC5D0 \uC608\uC804
+      \uC2E4\uB825\uC774 \uC548 \uB098\uC624\uB124 \uD760\uD760./n\uC800 \uC544\uB798
+      \uC131\uBB38\uC744 \uC5F4\uC5B4\uBCFC\uB798?"
+    questArriveNum: 2
+  - type: 3
+    index: 2
+    dialogueDescription: "\uC88B\uC558\uC5B4. \uB2E4\uC2DC \uBCF4\uC5EC\uC904\uAC8C.
+      \uBC31\uBC1C\uBC31\uC911 \uBA85\uC0AC\uC218!"
+    questArriveNum: 3
+  - type: 4
+    index: 3
+    dialogueDescription: "\uC801\uC744 \uCC98\uCE58\uD558\uBA74 \uACC4\uC18D \uC0C8\uB85C\uC6B4
+      \uC7A5\uBE44\uB97C \uBC1B\uC744 \uC218 \uC788\uC5B4./n\uACC4\uC18D\uD574\uC11C
+      \uC131\uBB38\uC744 \uC5F4\uC5B4\uBD10."
+    questArriveNum: 4
+  - type: 5
+    index: 4
+    dialogueDescription: "\uC801\uC774 \uB108\uBB34 \uB9CE\uC740\uB370? \uC774\uB7EC\uB2E4
+      \uC870\uB9CC\uAC04 \uC131\uC774 \uBB34\uB108\uC9C0\uACA0\uC5B4./n\uC9C0\uC6D0\uAD70\uC744
+      \uBD88\uB7EC\uBCF4\uC790."
+    questArriveNum: 5
+  - type: 6
+    index: 5
+    dialogueDescription: "\uBC14\uB85C \uC6B0\uB9AC \uBD80\uB300\uC5D0 \uD3B8\uC131\uD574\uBCF4\uC790."
+    questArriveNum: 6
+  - type: 7
+    index: 6
+    dialogueDescription: "\uC774\uB807\uAC8C \uC7A5\uBE44\uC640 \uB3D9\uB8CC\uB97C
+      \uD1B5\uD574 \uAC15\uD574\uC9C8 \uC218 \uC788\uC5B4./n\uC774\uBC88 \uC804\uD22C
+      \uB05D\uB098\uACE0 \uB2E4\uC2DC \uC62C\uAC8C!"
+    questArriveNum: 7
+  - type: 8
+    index: 7
+    dialogueDescription: "\uD760. \uACC4\uC18D \uBE44\uC2B7\uD55C \uC7A5\uBE44\uB97C
+      \uC8FC\uB294 \uB290\uB08C\uC801\uC778 \uB290\uB08C../n\uC544~ \uC131\uBB38
+      \uB808\uBCA8\uC5C5\uC744 \uD558\uBA74 \uB354 \uC88B\uC740 \uC7A5\uBE44\uB97C
+      \uC900\uB2E4\uB294\uB370?"
+    questArriveNum: 16
+  - type: 9
+    index: 8
+    dialogueDescription: "\uC774\uC81C \uC6B0\uB9AC\uAC00 \uC2A4\uC2A4\uB85C \uAC15\uD574\uC838\uC57C
+      \uD560 \uC2DC\uAC04\uC774\uC57C./n\uC601\uC6C5 \uB808\uBCA8\uC5C5\uC744 \uD574\uBCF4\uC790."
+    questArriveNum: 27
+  - type: 10
+    index: 9
+    dialogueDescription: "\uC544\uBB34\uB798\uB3C4 1\uC131\uC774\uB77C \uBD80\uC871\uD55C
+      \uB290\uB08C\uC774\uC57C./n\uC601\uC6C5 \uC2B9\uAE09\uC5C5\uC744 \uD574\uBCF4\uC790."
+    questArriveNum: 42
+  - type: 11
+    index: 10
+    dialogueDescription: "\uC2B9\uAE09\uC740 10\uC131\uAE4C\uC9C0 \uAC00\uB2A5\uD558\uB2C8
+      \uB05D\uAE4C\uC9C0 \uAC00\uBCF4\uC790\uACE0!/n\uB3C4\uAC10\uB3C4 \uD55C\uBC88
+      \uC0B4\uD3B4\uBD10\uBD10."
+    questArriveNum: 43

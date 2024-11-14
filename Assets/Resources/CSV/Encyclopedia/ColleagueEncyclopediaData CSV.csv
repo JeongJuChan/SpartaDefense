@@ -1,0 +1,85 @@
+ColleagueEncyclopediaType,동료 도감 이름,level,Class1,Class2,Class3,StatType,Increase,GoalLevel
+RtanWarrior,전사 듀오,0,Rtan_Rare,Warrior_Common,None,Damage,10,1
+RtanWarrior,전사 듀오,1,Rtan_Rare,Warrior_Common,None,Damage,50,10
+RtanWarrior,전사 듀오,2,Rtan_Rare,Warrior_Common,None,Damage,100,25
+RtanWarrior,전사 듀오,3,Rtan_Rare,Warrior_Common,None,Damage,250,50
+RtanWarrior,전사 듀오,4,Rtan_Rare,Warrior_Common,None,Damage,500,75
+RtanWarrior,전사 듀오,5,Rtan_Rare,Warrior_Common,None,Damage,1000,100
+MageRogue,친해지길 바래,0,Mage_Common,Rogue_Common,None,HP,10,1
+MageRogue,친해지길 바래,1,Mage_Common,Rogue_Common,None,HP,50,10
+MageRogue,친해지길 바래,2,Mage_Common,Rogue_Common,None,HP,100,25
+MageRogue,친해지길 바래,3,Mage_Common,Rogue_Common,None,HP,250,50
+MageRogue,친해지길 바래,4,Mage_Common,Rogue_Common,None,HP,500,75
+MageRogue,친해지길 바래,5,Mage_Common,Rogue_Common,None,HP,1000,100
+ArcherPaladinHunter,탱커와 원거리는 정석 조합,0,Archer_Magic,Paladin_Magic,Hunter_Magic,Defense,10,1
+ArcherPaladinHunter,탱커와 원거리는 정석 조합,1,Archer_Magic,Paladin_Magic,Hunter_Magic,Defense,30,10
+ArcherPaladinHunter,탱커와 원거리는 정석 조합,2,Archer_Magic,Paladin_Magic,Hunter_Magic,Defense,100,25
+ArcherPaladinHunter,탱커와 원거리는 정석 조합,3,Archer_Magic,Paladin_Magic,Hunter_Magic,Defense,200,50
+ArcherPaladinHunter,탱커와 원거리는 정석 조합,4,Archer_Magic,Paladin_Magic,Hunter_Magic,Defense,300,75
+ArcherPaladinHunter,탱커와 원거리는 정석 조합,5,Archer_Magic,Paladin_Magic,Hunter_Magic,Defense,500,100
+RogueHunter,단도 애호가,0,Rogue_Common,Hunter_Magic,None,Damage,10,1
+RogueHunter,단도 애호가,1,Rogue_Common,Hunter_Magic,None,Damage,50,10
+RogueHunter,단도 애호가,2,Rogue_Common,Hunter_Magic,None,Damage,100,25
+RogueHunter,단도 애호가,3,Rogue_Common,Hunter_Magic,None,Damage,250,50
+RogueHunter,단도 애호가,4,Rogue_Common,Hunter_Magic,None,Damage,500,75
+RogueHunter,단도 애호가,5,Rogue_Common,Hunter_Magic,None,Damage,1000,100
+ShamanPriestSummoner,자연의 힘,0,Shaman_Elaboration,Priest_Elaboration,Summoner_Elaboration,HP,10,1
+ShamanPriestSummoner,자연의 힘,1,Shaman_Elaboration,Priest_Elaboration,Summoner_Elaboration,HP,50,10
+ShamanPriestSummoner,자연의 힘,2,Shaman_Elaboration,Priest_Elaboration,Summoner_Elaboration,HP,100,25
+ShamanPriestSummoner,자연의 힘,3,Shaman_Elaboration,Priest_Elaboration,Summoner_Elaboration,HP,250,50
+ShamanPriestSummoner,자연의 힘,4,Shaman_Elaboration,Priest_Elaboration,Summoner_Elaboration,HP,500,75
+ShamanPriestSummoner,자연의 힘,5,Shaman_Elaboration,Priest_Elaboration,Summoner_Elaboration,HP,1000,100
+KnightArcher,탱커와 원거리는 정석 조합2,0,Knight_Rare,Archer_Magic,None,Defense,10,1
+KnightArcher,탱커와 원거리는 정석 조합2,1,Knight_Rare,Archer_Magic,None,Defense,30,10
+KnightArcher,탱커와 원거리는 정석 조합2,2,Knight_Rare,Archer_Magic,None,Defense,100,25
+KnightArcher,탱커와 원거리는 정석 조합2,3,Knight_Rare,Archer_Magic,None,Defense,200,50
+KnightArcher,탱커와 원거리는 정석 조합2,4,Knight_Rare,Archer_Magic,None,Defense,300,75
+KnightArcher,탱커와 원거리는 정석 조합2,5,Knight_Rare,Archer_Magic,None,Defense,500,100
+AssassinPaladin,탱커와 극딜러도 정석 조합,0,Assassin_Rare,Paladin_Magic,None,Damage,10,1
+AssassinPaladin,탱커와 극딜러도 정석 조합,1,Assassin_Rare,Paladin_Magic,None,Damage,50,10
+AssassinPaladin,탱커와 극딜러도 정석 조합,2,Assassin_Rare,Paladin_Magic,None,Damage,100,25
+AssassinPaladin,탱커와 극딜러도 정석 조합,3,Assassin_Rare,Paladin_Magic,None,Damage,250,50
+AssassinPaladin,탱커와 극딜러도 정석 조합,4,Assassin_Rare,Paladin_Magic,None,Damage,500,75
+AssassinPaladin,탱커와 극딜러도 정석 조합,5,Assassin_Rare,Paladin_Magic,None,Damage,1000,100
+KightWarrior,갑옷은 따듯해서 좋아,0,Knight_Rare,Warrior_Common,None,HP,10,1
+KightWarrior,갑옷은 따듯해서 좋아,1,Knight_Rare,Warrior_Common,None,HP,50,10
+KightWarrior,갑옷은 따듯해서 좋아,2,Knight_Rare,Warrior_Common,None,HP,100,25
+KightWarrior,갑옷은 따듯해서 좋아,3,Knight_Rare,Warrior_Common,None,HP,250,50
+KightWarrior,갑옷은 따듯해서 좋아,4,Knight_Rare,Warrior_Common,None,HP,500,75
+KightWarrior,갑옷은 따듯해서 좋아,5,Knight_Rare,Warrior_Common,None,HP,1000,100
+ArcherSummoner,비가 오면 망토를 입어,0,Archer_Magic,Summoner_Elaboration,None,Defense,10,1
+ArcherSummoner,비가 오면 망토를 입어,1,Archer_Magic,Summoner_Elaboration,None,Defense,30,10
+ArcherSummoner,비가 오면 망토를 입어,2,Archer_Magic,Summoner_Elaboration,None,Defense,100,25
+ArcherSummoner,비가 오면 망토를 입어,3,Archer_Magic,Summoner_Elaboration,None,Defense,200,50
+ArcherSummoner,비가 오면 망토를 입어,4,Archer_Magic,Summoner_Elaboration,None,Defense,300,75
+ArcherSummoner,비가 오면 망토를 입어,5,Archer_Magic,Summoner_Elaboration,None,Defense,500,100
+PaladinPriest,요즘 트렌드는 검정,0,Paladin_Magic,Priest_Elaboration,None,Damage,10,1
+PaladinPriest,요즘 트렌드는 검정,1,Paladin_Magic,Priest_Elaboration,None,Damage,50,10
+PaladinPriest,요즘 트렌드는 검정,2,Paladin_Magic,Priest_Elaboration,None,Damage,100,25
+PaladinPriest,요즘 트렌드는 검정,3,Paladin_Magic,Priest_Elaboration,None,Damage,250,50
+PaladinPriest,요즘 트렌드는 검정,4,Paladin_Magic,Priest_Elaboration,None,Damage,500,75
+PaladinPriest,요즘 트렌드는 검정,5,Paladin_Magic,Priest_Elaboration,None,Damage,1000,100
+WarriorMageRogue,일반 등급을 무시하지마,0,Warrior_Common,Mage_Common,Rogue_Common,HP,10,1
+WarriorMageRogue,일반 등급을 무시하지마,1,Warrior_Common,Mage_Common,Rogue_Common,HP,50,10
+WarriorMageRogue,일반 등급을 무시하지마,2,Warrior_Common,Mage_Common,Rogue_Common,HP,100,25
+WarriorMageRogue,일반 등급을 무시하지마,3,Warrior_Common,Mage_Common,Rogue_Common,HP,250,50
+WarriorMageRogue,일반 등급을 무시하지마,4,Warrior_Common,Mage_Common,Rogue_Common,HP,500,75
+WarriorMageRogue,일반 등급을 무시하지마,5,Warrior_Common,Mage_Common,Rogue_Common,HP,1000,100
+WarriorMage,내 퍼스널 컬러는 블루,0,Warrior_Common,Mage_Common,None,Defense,10,1
+WarriorMage,내 퍼스널 컬러는 블루,1,Warrior_Common,Mage_Common,None,Defense,30,10
+WarriorMage,내 퍼스널 컬러는 블루,2,Warrior_Common,Mage_Common,None,Defense,100,25
+WarriorMage,내 퍼스널 컬러는 블루,3,Warrior_Common,Mage_Common,None,Defense,200,50
+WarriorMage,내 퍼스널 컬러는 블루,4,Warrior_Common,Mage_Common,None,Defense,300,75
+WarriorMage,내 퍼스널 컬러는 블루,5,Warrior_Common,Mage_Common,None,Defense,500,100
+ArcherHunter,걸크러쉬를 보여줄게,0,Archer_Magic,Hunter_Magic,None,Damage,10,1
+ArcherHunter,걸크러쉬를 보여줄게,1,Archer_Magic,Hunter_Magic,None,Damage,50,10
+ArcherHunter,걸크러쉬를 보여줄게,2,Archer_Magic,Hunter_Magic,None,Damage,100,25
+ArcherHunter,걸크러쉬를 보여줄게,3,Archer_Magic,Hunter_Magic,None,Damage,250,50
+ArcherHunter,걸크러쉬를 보여줄게,4,Archer_Magic,Hunter_Magic,None,Damage,500,75
+ArcherHunter,걸크러쉬를 보여줄게,5,Archer_Magic,Hunter_Magic,None,Damage,1000,100
+WarriorPaladin,우리가 가장 강해보일걸,0,Warrior_Common,Paladin_Magic,None,HP,10,1
+WarriorPaladin,우리가 가장 강해보일걸,1,Warrior_Common,Paladin_Magic,None,HP,50,10
+WarriorPaladin,우리가 가장 강해보일걸,2,Warrior_Common,Paladin_Magic,None,HP,100,25
+WarriorPaladin,우리가 가장 강해보일걸,3,Warrior_Common,Paladin_Magic,None,HP,250,50
+WarriorPaladin,우리가 가장 강해보일걸,4,Warrior_Common,Paladin_Magic,None,HP,500,75
+WarriorPaladin,우리가 가장 강해보일걸,5,Warrior_Common,Paladin_Magic,None,HP,1000,100

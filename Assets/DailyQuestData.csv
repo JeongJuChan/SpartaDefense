@@ -1,0 +1,9 @@
+DailyQuestType,Description,GoalCount,Reward,RewardAmount,QuestPoint
+Forge_Equipment,성문 터치 n번,5,Gem,50,15
+Summon_Colleague,영웅 소환 n번,3,Gem,50,15
+Dungeon_GoldDungeon,골드 던전 n회 플레이 ,1,Gem,50,15
+Dungeon_ForgeDungeon,성문 던전 n회 플레이,1,Gem,50,15
+Dungeon_GemDungeon,잼 던전 n회 플레이,1,Gem,50,15
+Kill_Monster,적 처치 n회,50,Gem,50,15
+LevelUP_Colleague,영웅 n회 레벨업,1,Gem,50,15
+Dungeon_ColleagueLevelUpStoneDungeon,지하 동굴 던전 n회 플레이,1,Gem,50,15

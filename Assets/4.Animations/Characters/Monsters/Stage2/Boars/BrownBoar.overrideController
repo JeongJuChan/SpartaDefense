@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BrownBoar
+  m_Controller: {fileID: 9100000, guid: f2c9d1ba3a217d54aab8b7c6ba1cfe8e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 81d8cbe4a0f3ad4469a76446b7d8f9cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 13cb022f3f7f9e54c9043d8e9e5fbae0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9cef66360b4602544af094178a7409e0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3f3ec6de9688e434fadbb03711470931, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ecfc560bcd6402f45b0f31deedc15fe2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2f1f84e0a965b9546bf4567f733b2ac8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c697bbcc5f52c9544ad2a409530b028c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2223aa6b17b47a042b72dc3c8f882927, type: 2}

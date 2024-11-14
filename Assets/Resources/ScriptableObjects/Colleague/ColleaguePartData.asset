@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3e6932752f66042bd71b90e8391af9, type: 3}
+  m_Name: ColleaguePartData
+  m_EditorClassIdentifier: 
+  datas:
+  - rank: 1
+    currentStar: 0
+    colleaguePartCost: 5
+  - rank: 1
+    currentStar: 1
+    colleaguePartCost: 11
+  - rank: 1
+    currentStar: 2
+    colleaguePartCost: 30
+  - rank: 1
+    currentStar: 3
+    colleaguePartCost: 51
+  - rank: 1
+    currentStar: 4
+    colleaguePartCost: 105
+  - rank: 1
+    currentStar: 5
+    colleaguePartCost: 169
+  - rank: 1
+    currentStar: 6
+    colleaguePartCost: 244
+  - rank: 1
+    currentStar: 7
+    colleaguePartCost: 331
+  - rank: 1
+    currentStar: 8
+    colleaguePartCost: 431
+  - rank: 1
+    currentStar: 9
+    colleaguePartCost: 545
+  - rank: 2
+    currentStar: 0
+    colleaguePartCost: 10
+  - rank: 2
+    currentStar: 1
+    colleaguePartCost: 21
+  - rank: 2
+    currentStar: 2
+    colleaguePartCost: 52
+  - rank: 2
+    currentStar: 3
+    colleaguePartCost: 92
+  - rank: 2
+    currentStar: 4
+    colleaguePartCost: 151
+  - rank: 2
+    currentStar: 5
+    colleaguePartCost: 229
+  - rank: 2
+    currentStar: 6
+    colleaguePartCost: 329
+  - rank: 2
+    currentStar: 7
+    colleaguePartCost: 453
+  - rank: 2
+    currentStar: 8
+    colleaguePartCost: 603
+  - rank: 2
+    currentStar: 9
+    colleaguePartCost: 782
+  - rank: 3
+    currentStar: 0
+    colleaguePartCost: 9
+  - rank: 3
+    currentStar: 1
+    colleaguePartCost: 19
+  - rank: 3
+    currentStar: 2
+    colleaguePartCost: 48
+  - rank: 3
+    currentStar: 3
+    colleaguePartCost: 86
+  - rank: 3
+    currentStar: 4
+    colleaguePartCost: 134
+  - rank: 3
+    currentStar: 5
+    colleaguePartCost: 193
+  - rank: 3
+    currentStar: 6
+    colleaguePartCost: 263
+  - rank: 3
+    currentStar: 7
+    colleaguePartCost: 344
+  - rank: 3
+    currentStar: 8
+    colleaguePartCost: 436
+  - rank: 3
+    currentStar: 9
+    colleaguePartCost: 539
+  - rank: 4
+    currentStar: 0
+    colleaguePartCost: 3
+  - rank: 4
+    currentStar: 1
+    colleaguePartCost: 7
+  - rank: 4
+    currentStar: 2
+    colleaguePartCost: 18
+  - rank: 4
+    currentStar: 3
+    colleaguePartCost: 31
+  - rank: 4
+    currentStar: 4
+    colleaguePartCost: 48
+  - rank: 4
+    currentStar: 5
+    colleaguePartCost: 70
+  - rank: 4
+    currentStar: 6
+    colleaguePartCost: 95
+  - rank: 4
+    currentStar: 7
+    colleaguePartCost: 125
+  - rank: 4
+    currentStar: 8
+    colleaguePartCost: 162
+  - rank: 4
+    currentStar: 9
+    colleaguePartCost: 199

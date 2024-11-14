@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3aef36b9774468280a8b55bc3cac96, type: 3}
+  m_Name: UnlockData
+  m_EditorClassIdentifier: 
+  datas:
+  - featureType: 0
+    count: 3
+    featureID: 1
+  - featureType: 2
+    count: 5
+    featureID: 2
+  - featureType: 2
+    count: 6
+    featureID: 3
+  - featureType: 0
+    count: 1
+    featureID: 36
+  - featureType: 2
+    count: 19
+    featureID: 5
+  - featureType: 2
+    count: 54
+    featureID: 6
+  - featureType: 2
+    count: 5
+    featureID: 7
+  - featureType: 2
+    count: 16
+    featureID: 12
+  - featureType: 2
+    count: 55
+    featureID: 13
+  - featureType: 2
+    count: 19
+    featureID: 8
+  - featureType: 2
+    count: 26
+    featureID: 11
+  - featureType: 2
+    count: 36
+    featureID: 9
+  - featureType: 2
+    count: 49
+    featureID: 10
+  - featureType: 2
+    count: 6
+    featureID: 15
+  - featureType: 2
+    count: 14
+    featureID: 16
+  - featureType: 2
+    count: 32
+    featureID: 17
+  - featureType: 2
+    count: 48
+    featureID: 18
+  - featureType: 2
+    count: 60
+    featureID: 19
+  - featureType: 2
+    count: 70
+    featureID: 20
+  - featureType: 2
+    count: 84
+    featureID: 21
+  - featureType: 2
+    count: 100
+    featureID: 22
+  - featureType: 2
+    count: 119
+    featureID: 23
+  - featureType: 2
+    count: 54
+    featureID: 24
+  - featureType: 2
+    count: 54
+    featureID: 25
+  - featureType: 2
+    count: 54
+    featureID: 29
+  - featureType: 2
+    count: 54
+    featureID: 30
+  - featureType: 2
+    count: 60
+    featureID: 31
+  - featureType: 2
+    count: 79
+    featureID: 32
+  - featureType: 2
+    count: 89
+    featureID: 33
+  - featureType: 2
+    count: 43
+    featureID: 34
+  - featureType: 2
+    count: 63
+    featureID: 35

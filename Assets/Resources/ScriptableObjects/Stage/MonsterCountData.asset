@@ -1,0 +1,523 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d50a715668ed5547a9c1a382d9d77ad, type: 3}
+  m_Name: MonsterCountData
+  m_EditorClassIdentifier: 
+  datas:
+  - mainStageNum: 1
+    routineStageNum: 1
+    coreInfoData:
+      index: 10000
+      name: GreenOgre
+    count: 1
+  - mainStageNum: 1
+    routineStageNum: 1
+    coreInfoData:
+      index: 10001
+      name: PurpleOgre
+    count: 1
+  - mainStageNum: 1
+    routineStageNum: 1
+    coreInfoData:
+      index: 10002
+      name: RedOgre
+    count: 1
+  - mainStageNum: 1
+    routineStageNum: 1
+    coreInfoData:
+      index: 10003
+      name: BrownMushroom
+    count: 1
+  - mainStageNum: 1
+    routineStageNum: 1
+    coreInfoData:
+      index: 10004
+      name: PurpleMushroom
+    count: 1
+  - mainStageNum: 1
+    routineStageNum: 2
+    coreInfoData:
+      index: 10000
+      name: GreenOgre
+    count: 2
+  - mainStageNum: 1
+    routineStageNum: 2
+    coreInfoData:
+      index: 10001
+      name: PurpleOgre
+    count: 2
+  - mainStageNum: 1
+    routineStageNum: 2
+    coreInfoData:
+      index: 10002
+      name: RedOgre
+    count: 2
+  - mainStageNum: 1
+    routineStageNum: 2
+    coreInfoData:
+      index: 10003
+      name: BrownMushroom
+    count: 2
+  - mainStageNum: 1
+    routineStageNum: 2
+    coreInfoData:
+      index: 10004
+      name: PurpleMushroom
+    count: 2
+  - mainStageNum: 1
+    routineStageNum: 3
+    coreInfoData:
+      index: 10000
+      name: GreenOgre
+    count: 3
+  - mainStageNum: 1
+    routineStageNum: 3
+    coreInfoData:
+      index: 10001
+      name: PurpleOgre
+    count: 3
+  - mainStageNum: 1
+    routineStageNum: 3
+    coreInfoData:
+      index: 10002
+      name: RedOgre
+    count: 3
+  - mainStageNum: 1
+    routineStageNum: 3
+    coreInfoData:
+      index: 10003
+      name: BrownMushroom
+    count: 3
+  - mainStageNum: 1
+    routineStageNum: 3
+    coreInfoData:
+      index: 10004
+      name: PurpleMushroom
+    count: 3
+  - mainStageNum: 1
+    routineStageNum: 4
+    coreInfoData:
+      index: 10000
+      name: GreenOgre
+    count: 5
+  - mainStageNum: 1
+    routineStageNum: 4
+    coreInfoData:
+      index: 10001
+      name: PurpleOgre
+    count: 5
+  - mainStageNum: 1
+    routineStageNum: 4
+    coreInfoData:
+      index: 10002
+      name: RedOgre
+    count: 5
+  - mainStageNum: 1
+    routineStageNum: 4
+    coreInfoData:
+      index: 10003
+      name: BrownMushroom
+    count: 5
+  - mainStageNum: 1
+    routineStageNum: 4
+    coreInfoData:
+      index: 10004
+      name: PurpleMushroom
+    count: 5
+  - mainStageNum: 1
+    routineStageNum: 5
+    coreInfoData:
+      index: 20000
+      name: Troll
+    count: 1
+  - mainStageNum: 2
+    routineStageNum: 1
+    coreInfoData:
+      index: 10005
+      name: BlackBoar
+    count: 1
+  - mainStageNum: 2
+    routineStageNum: 1
+    coreInfoData:
+      index: 10006
+      name: BrownBoar
+    count: 1
+  - mainStageNum: 2
+    routineStageNum: 1
+    coreInfoData:
+      index: 10007
+      name: EarthGolem
+    count: 1
+  - mainStageNum: 2
+    routineStageNum: 1
+    coreInfoData:
+      index: 10008
+      name: BrownWolf
+    count: 1
+  - mainStageNum: 2
+    routineStageNum: 1
+    coreInfoData:
+      index: 10009
+      name: GrayWolf
+    count: 1
+  - mainStageNum: 2
+    routineStageNum: 2
+    coreInfoData:
+      index: 10005
+      name: BlackBoar
+    count: 2
+  - mainStageNum: 2
+    routineStageNum: 2
+    coreInfoData:
+      index: 10006
+      name: BrownBoar
+    count: 2
+  - mainStageNum: 2
+    routineStageNum: 2
+    coreInfoData:
+      index: 10007
+      name: EarthGolem
+    count: 2
+  - mainStageNum: 2
+    routineStageNum: 2
+    coreInfoData:
+      index: 10008
+      name: BrownWolf
+    count: 2
+  - mainStageNum: 2
+    routineStageNum: 2
+    coreInfoData:
+      index: 10009
+      name: GrayWolf
+    count: 2
+  - mainStageNum: 2
+    routineStageNum: 3
+    coreInfoData:
+      index: 10005
+      name: BlackBoar
+    count: 3
+  - mainStageNum: 2
+    routineStageNum: 3
+    coreInfoData:
+      index: 10006
+      name: BrownBoar
+    count: 3
+  - mainStageNum: 2
+    routineStageNum: 3
+    coreInfoData:
+      index: 10007
+      name: EarthGolem
+    count: 3
+  - mainStageNum: 2
+    routineStageNum: 3
+    coreInfoData:
+      index: 10008
+      name: BrownWolf
+    count: 3
+  - mainStageNum: 2
+    routineStageNum: 3
+    coreInfoData:
+      index: 10009
+      name: GrayWolf
+    count: 3
+  - mainStageNum: 2
+    routineStageNum: 4
+    coreInfoData:
+      index: 10005
+      name: BlackBoar
+    count: 5
+  - mainStageNum: 2
+    routineStageNum: 4
+    coreInfoData:
+      index: 10006
+      name: BrownBoar
+    count: 5
+  - mainStageNum: 2
+    routineStageNum: 4
+    coreInfoData:
+      index: 10007
+      name: EarthGolem
+    count: 5
+  - mainStageNum: 2
+    routineStageNum: 4
+    coreInfoData:
+      index: 10008
+      name: BrownWolf
+    count: 5
+  - mainStageNum: 2
+    routineStageNum: 4
+    coreInfoData:
+      index: 10009
+      name: GrayWolf
+    count: 5
+  - mainStageNum: 2
+    routineStageNum: 5
+    coreInfoData:
+      index: 20001
+      name: FlameGolem
+    count: 1
+  - mainStageNum: 3
+    routineStageNum: 1
+    coreInfoData:
+      index: 10010
+      name: BlueCrab
+    count: 1
+  - mainStageNum: 3
+    routineStageNum: 1
+    coreInfoData:
+      index: 10011
+      name: RedCrab
+    count: 1
+  - mainStageNum: 3
+    routineStageNum: 1
+    coreInfoData:
+      index: 10012
+      name: GreenBush
+    count: 1
+  - mainStageNum: 3
+    routineStageNum: 1
+    coreInfoData:
+      index: 10013
+      name: PurpleBush
+    count: 1
+  - mainStageNum: 3
+    routineStageNum: 1
+    coreInfoData:
+      index: 10014
+      name: Squid
+    count: 1
+  - mainStageNum: 3
+    routineStageNum: 2
+    coreInfoData:
+      index: 10010
+      name: BlueCrab
+    count: 2
+  - mainStageNum: 3
+    routineStageNum: 2
+    coreInfoData:
+      index: 10011
+      name: RedCrab
+    count: 2
+  - mainStageNum: 3
+    routineStageNum: 2
+    coreInfoData:
+      index: 10012
+      name: GreenBush
+    count: 2
+  - mainStageNum: 3
+    routineStageNum: 2
+    coreInfoData:
+      index: 10013
+      name: PurpleBush
+    count: 2
+  - mainStageNum: 3
+    routineStageNum: 2
+    coreInfoData:
+      index: 10014
+      name: Squid
+    count: 2
+  - mainStageNum: 3
+    routineStageNum: 3
+    coreInfoData:
+      index: 10010
+      name: BlueCrab
+    count: 3
+  - mainStageNum: 3
+    routineStageNum: 3
+    coreInfoData:
+      index: 10011
+      name: RedCrab
+    count: 3
+  - mainStageNum: 3
+    routineStageNum: 3
+    coreInfoData:
+      index: 10012
+      name: GreenBush
+    count: 3
+  - mainStageNum: 3
+    routineStageNum: 3
+    coreInfoData:
+      index: 10013
+      name: PurpleBush
+    count: 3
+  - mainStageNum: 3
+    routineStageNum: 3
+    coreInfoData:
+      index: 10014
+      name: Squid
+    count: 3
+  - mainStageNum: 3
+    routineStageNum: 4
+    coreInfoData:
+      index: 10010
+      name: BlueCrab
+    count: 5
+  - mainStageNum: 3
+    routineStageNum: 4
+    coreInfoData:
+      index: 10011
+      name: RedCrab
+    count: 5
+  - mainStageNum: 3
+    routineStageNum: 4
+    coreInfoData:
+      index: 10012
+      name: GreenBush
+    count: 5
+  - mainStageNum: 3
+    routineStageNum: 4
+    coreInfoData:
+      index: 10013
+      name: PurpleBush
+    count: 5
+  - mainStageNum: 3
+    routineStageNum: 4
+    coreInfoData:
+      index: 10014
+      name: Squid
+    count: 5
+  - mainStageNum: 3
+    routineStageNum: 5
+    coreInfoData:
+      index: 20002
+      name: GoldenDemigrif
+    count: 1
+  - mainStageNum: 4
+    routineStageNum: 1
+    coreInfoData:
+      index: 10015
+      name: BlackBear
+    count: 1
+  - mainStageNum: 4
+    routineStageNum: 1
+    coreInfoData:
+      index: 10016
+      name: BrownBear
+    count: 1
+  - mainStageNum: 4
+    routineStageNum: 1
+    coreInfoData:
+      index: 10017
+      name: GreenJelly
+    count: 1
+  - mainStageNum: 4
+    routineStageNum: 1
+    coreInfoData:
+      index: 10018
+      name: BloodyJelly
+    count: 1
+  - mainStageNum: 4
+    routineStageNum: 1
+    coreInfoData:
+      index: 10019
+      name: IceGolem
+    count: 1
+  - mainStageNum: 4
+    routineStageNum: 2
+    coreInfoData:
+      index: 10015
+      name: BlackBear
+    count: 2
+  - mainStageNum: 4
+    routineStageNum: 2
+    coreInfoData:
+      index: 10016
+      name: BrownBear
+    count: 2
+  - mainStageNum: 4
+    routineStageNum: 2
+    coreInfoData:
+      index: 10017
+      name: GreenJelly
+    count: 2
+  - mainStageNum: 4
+    routineStageNum: 2
+    coreInfoData:
+      index: 10018
+      name: BloodyJelly
+    count: 2
+  - mainStageNum: 4
+    routineStageNum: 2
+    coreInfoData:
+      index: 10019
+      name: IceGolem
+    count: 2
+  - mainStageNum: 4
+    routineStageNum: 3
+    coreInfoData:
+      index: 10015
+      name: BlackBear
+    count: 3
+  - mainStageNum: 4
+    routineStageNum: 3
+    coreInfoData:
+      index: 10016
+      name: BrownBear
+    count: 3
+  - mainStageNum: 4
+    routineStageNum: 3
+    coreInfoData:
+      index: 10017
+      name: GreenJelly
+    count: 3
+  - mainStageNum: 4
+    routineStageNum: 3
+    coreInfoData:
+      index: 10018
+      name: BloodyJelly
+    count: 3
+  - mainStageNum: 4
+    routineStageNum: 3
+    coreInfoData:
+      index: 10019
+      name: IceGolem
+    count: 3
+  - mainStageNum: 4
+    routineStageNum: 4
+    coreInfoData:
+      index: 10015
+      name: BlackBear
+    count: 5
+  - mainStageNum: 4
+    routineStageNum: 4
+    coreInfoData:
+      index: 10016
+      name: BrownBear
+    count: 5
+  - mainStageNum: 4
+    routineStageNum: 4
+    coreInfoData:
+      index: 10017
+      name: GreenJelly
+    count: 5
+  - mainStageNum: 4
+    routineStageNum: 4
+    coreInfoData:
+      index: 10018
+      name: BloodyJelly
+    count: 5
+  - mainStageNum: 4
+    routineStageNum: 4
+    coreInfoData:
+      index: 10019
+      name: IceGolem
+    count: 5
+  - mainStageNum: 4
+    routineStageNum: 5
+    coreInfoData:
+      index: 20003
+      name: RedWerwolf
+    count: 1
+  initCountMod: 2
+  maxCountMod: 5
+  <bossRoutineStage>k__BackingField: 5
+  <subMaxStage>k__BackingField: 10

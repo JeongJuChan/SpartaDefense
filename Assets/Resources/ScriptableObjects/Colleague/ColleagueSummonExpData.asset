@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2e4cac0c40078f498e6c4e5e30829b0, type: 3}
+  m_Name: ColleagueSummonExpData
+  m_EditorClassIdentifier: 
+  datas:
+  - level: 1
+    exp: 60
+  - level: 2
+    exp: 90
+  - level: 3
+    exp: 120
+  - level: 4
+    exp: 150
+  - level: 5
+    exp: 300
+  - level: 6
+    exp: 600
+  - level: 7
+    exp: 1000
+  - level: 8
+    exp: 1500
+  - level: 9
+    exp: 2000
+  - level: 10
+    exp: 3000

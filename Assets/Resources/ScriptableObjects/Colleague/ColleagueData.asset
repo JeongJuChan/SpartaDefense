@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61ff9a88b389fac42aeaeb8c9d93675c, type: 3}
+  m_Name: ColleagueData
+  m_EditorClassIdentifier: 
+  datas:
+  - index: 0
+    skillIndex: 21000
+    colleagueName: RtanRare
+    nickName: "\uC708\uB4DC\uBE0C\uB808\uC774\uCEE4"
+    colleagueInfo:
+      rank: 4
+      colleagueType: 4
+    shootingType: 1
+  - index: 1
+    skillIndex: 21015
+    colleagueName: WarriorCommon
+    nickName: "\uC544\uC774\uC5B8\uD558\uD2B8"
+    colleagueInfo:
+      rank: 1
+      colleagueType: 5
+    shootingType: 0
+  - index: 2
+    skillIndex: 21006
+    colleagueName: MageMagic
+    nickName: "\uC2A4\uD3A0\uC100\uB3C4\uC6B0"
+    colleagueInfo:
+      rank: 1
+      colleagueType: 6
+    shootingType: 1
+  - index: 3
+    skillIndex: 21012
+    colleagueName: RogueCommon
+    nickName: "\uBBF8\uC2A4\uD2B8\uD3F4"
+    colleagueInfo:
+      rank: 1
+      colleagueType: 7
+    shootingType: 0
+  - index: 4
+    skillIndex: 21001
+    colleagueName: ArcherMagic
+    nickName: "\uD3EC\uB808\uC2A4\uD2B8\uC6CC\uCEE4"
+    colleagueInfo:
+      rank: 2
+      colleagueType: 8
+    shootingType: 1
+  - index: 5
+    skillIndex: 21007
+    colleagueName: PaladinMagic
+    nickName: "\uD640\uB9AC\uC6CC\uB354"
+    colleagueInfo:
+      rank: 2
+      colleagueType: 9
+    shootingType: 0
+  - index: 6
+    skillIndex: 21013
+    colleagueName: HunterMagic
+    nickName: "\uADF8\uB9AC\uC990\uB9AC\uD3EC"
+    colleagueInfo:
+      rank: 2
+      colleagueType: 10
+    shootingType: 0
+  - index: 7
+    skillIndex: 21002
+    colleagueName: ShamanElaboration
+    nickName: "\uC2A4\uD1B0\uCF5C\uB7EC"
+    colleagueInfo:
+      rank: 3
+      colleagueType: 11
+    shootingType: 0
+  - index: 8
+    skillIndex: 21010
+    colleagueName: PriestElaboration
+    nickName: "\uD53C\uC2A4\uBA54\uC774\uCEE4"
+    colleagueInfo:
+      rank: 3
+      colleagueType: 12
+    shootingType: 1
+  - index: 9
+    skillIndex: 21014
+    colleagueName: SummonerElaboration
+    nickName: "\uB124\uD06C\uB85C\uBC14\uC778\uB4DC"
+    colleagueInfo:
+      rank: 3
+      colleagueType: 13
+    shootingType: 1
+  - index: 10
+    skillIndex: 21003
+    colleagueName: KnightRare
+    nickName: "\uB85C\uC584\uD314\uB77C\uB518"
+    colleagueInfo:
+      rank: 4
+      colleagueType: 14
+    shootingType: 0
+  - index: 11
+    skillIndex: 21009
+    colleagueName: AssassinRare
+    nickName: "\uB808\uC774\uBE10\uD3F4"
+    colleagueInfo:
+      rank: 4
+      colleagueType: 15
+    shootingType: 0
+  <defaultPoolCount>k__BackingField: 10

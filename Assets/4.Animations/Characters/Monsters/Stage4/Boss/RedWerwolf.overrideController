@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RedWerwolf
+  m_Controller: {fileID: 9100000, guid: f2c9d1ba3a217d54aab8b7c6ba1cfe8e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 81d8cbe4a0f3ad4469a76446b7d8f9cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6bd1eb124807a0646bff0b1aa3201ab0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9cef66360b4602544af094178a7409e0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0d13ab8e729241945adc6a5ed44c5dba, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ecfc560bcd6402f45b0f31deedc15fe2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 47483949edf0f234cbf87f5dcfd29bfa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c697bbcc5f52c9544ad2a409530b028c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 72db5fec641ad9b4c82e1f189782f738, type: 2}

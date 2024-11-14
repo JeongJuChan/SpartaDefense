@@ -1,0 +1,8 @@
+,Common,Magic,Elaboration,Rare,Excellent,Epic,StatType
+Damage,30~60,60~120,90~180,120~240,150~300,180~360,Base
+Defense,1~2,2~5,5~10,10~20,15~30,20~40,Base
+HP,50~100,200~400,450~900,600~1200,750~1500,900~1800,Base
+AttackSpeedRate,1~2,2~4,4~7,7~10,10~15,15~20,Rate
+CirticalProbability,1~3,2~7,4~9,8~13,10~16,19~25,Rate
+CriticalMultiplication,1~3,2~7,4~9,8~13,10~16,19~25,Rate
+Heal,0.1~0.2,0.2~0.4,0.4~0.7,0.7~1.0,1.0~1.5,1.5~2.0,Rate

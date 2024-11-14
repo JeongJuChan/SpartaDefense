@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "717736012906",
+    "project_id": "dev-2-idle-rpg",
+    "storage_bucket": "dev-2-idle-rpg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717736012906:ios:bd0c07c945cc8c2241ee13",
+        "android_client_info": {
+          "package_name": "com.teamsparta.SpartaDefence"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBURi9dpGCSiF1tDqq7vSHAFFEq0EUF8MY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66281b8b749041b4b803d8d41c0ba502, type: 3}
+  m_Name: SkillIncrementData
+  m_EditorClassIdentifier: 
+  datas:
+  - index: 21000
+    skillName: ThunderStrike
+    skillTargetingType: 0
+    rank: 1
+    maxExpIncrement: 1
+    maxExpIncrementLimit: 15
+    addtionalStatPercentIncrement: 1
+    damageIncrement: 2
+  - index: 21015
+    skillName: AdventOfDarkness
+    skillTargetingType: 0
+    rank: 4
+    maxExpIncrement: 2
+    maxExpIncrementLimit: 30
+    addtionalStatPercentIncrement: 4
+    damageIncrement: 16
+  - index: 21006
+    skillName: PoisonSmoke
+    skillTargetingType: 0
+    rank: 1
+    maxExpIncrement: 1
+    maxExpIncrementLimit: 15
+    addtionalStatPercentIncrement: 1
+    damageIncrement: 2
+  - index: 21012
+    skillName: BurningMeteor
+    skillTargetingType: 2
+    rank: 1
+    maxExpIncrement: 1
+    maxExpIncrementLimit: 15
+    addtionalStatPercentIncrement: 1
+    damageIncrement: 2
+  - index: 21001
+    skillName: MeteorShower
+    skillTargetingType: 1
+    rank: 2
+    maxExpIncrement: 1
+    maxExpIncrementLimit: 20
+    addtionalStatPercentIncrement: 1.5
+    damageIncrement: 4
+  - index: 21007
+    skillName: GroundBeam
+    skillTargetingType: 0
+    rank: 2
+    maxExpIncrement: 1
+    maxExpIncrementLimit: 20
+    addtionalStatPercentIncrement: 1.5
+    damageIncrement: 4
+  - index: 21013
+    skillName: FragmentOfPosion
+    skillTargetingType: 2
+    rank: 2
+    maxExpIncrement: 1
+    maxExpIncrementLimit: 20
+    addtionalStatPercentIncrement: 1.5
+    damageIncrement: 4
+  - index: 21002
+    skillName: ShellOfCurse
+    skillTargetingType: 2
+    rank: 3
+    maxExpIncrement: 2
+    maxExpIncrementLimit: 25
+    addtionalStatPercentIncrement: 2.2
+    damageIncrement: 8
+  - index: 21010
+    skillName: BlueFlash
+    skillTargetingType: 1
+    rank: 5
+    maxExpIncrement: 3
+    maxExpIncrementLimit: 35
+    addtionalStatPercentIncrement: 8
+    damageIncrement: 20
+  - index: 21014
+    skillName: AngerOfAbyss
+    skillTargetingType: 2
+    rank: 3
+    maxExpIncrement: 2
+    maxExpIncrementLimit: 25
+    addtionalStatPercentIncrement: 2.2
+    damageIncrement: 8
+  - index: 21003
+    skillName: AmbushOfTentacle
+    skillTargetingType: 0
+    rank: 4
+    maxExpIncrement: 2
+    maxExpIncrementLimit: 30
+    addtionalStatPercentIncrement: 4
+    damageIncrement: 16
+  - index: 21009
+    skillName: SpinSlash
+    skillTargetingType: 1
+    rank: 4
+    maxExpIncrement: 2
+    maxExpIncrementLimit: 30
+    addtionalStatPercentIncrement: 4
+    damageIncrement: 16
+  - index: 21004
+    skillName: BreathOfIce
+    skillTargetingType: 0
+    rank: 5
+    maxExpIncrement: 3
+    maxExpIncrementLimit: 35
+    addtionalStatPercentIncrement: 8
+    damageIncrement: 20
+  - index: 21005
+    skillName: RageOfIceWall
+    skillTargetingType: 0
+    rank: 6
+    maxExpIncrement: 3
+    maxExpIncrementLimit: 40
+    addtionalStatPercentIncrement: 16
+    damageIncrement: 25
+  - index: 21011
+    skillName: RageOfElectron
+    skillTargetingType: 1
+    rank: 6
+    maxExpIncrement: 3
+    maxExpIncrementLimit: 40
+    addtionalStatPercentIncrement: 16
+    damageIncrement: 25
+  - index: 21008
+    skillName: FloodOfFlame
+    skillTargetingType: 1
+    rank: 3
+    maxExpIncrement: 2
+    maxExpIncrementLimit: 25
+    addtionalStatPercentIncrement: 2.2
+    damageIncrement: 8

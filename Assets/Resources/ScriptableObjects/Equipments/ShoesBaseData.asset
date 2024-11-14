@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa008365c8534725ba5581947f588ae, type: 3}
+  m_Name: ShoesBaseData
+  m_EditorClassIdentifier: 
+  data:
+    effectType: 1
+    rankReferences:
+    - rank: 1
+      equipmentCount: 4
+      maxLevel: 50
+      baseEquipEffectStartValue: 120
+      baseEquipEffectIncreaseRate: 1.3
+      equipEffectLevelUpUnitStartValue: 2
+      equipEffectLevelUpUnitIncreaseRate: 0.18
+      baseOwnerEffectStartValue: 30
+      baseOwnerEffectIncreaseRate: 1.1
+      ownerEffectLevelUpUnitStartValue: 1
+      ownerEffectLevelUpUnitIncreaseRate: 0.09
+    - rank: 2
+      equipmentCount: 4
+      maxLevel: 50
+      baseEquipEffectStartValue: 360
+      baseEquipEffectIncreaseRate: 1.3
+      equipEffectLevelUpUnitStartValue: 2
+      equipEffectLevelUpUnitIncreaseRate: 0.18
+      baseOwnerEffectStartValue: 120
+      baseOwnerEffectIncreaseRate: 1.1
+      ownerEffectLevelUpUnitStartValue: 1
+      ownerEffectLevelUpUnitIncreaseRate: 0.09
+    - rank: 3
+      equipmentCount: 4
+      maxLevel: 50
+      baseEquipEffectStartValue: 1080
+      baseEquipEffectIncreaseRate: 1.3
+      equipEffectLevelUpUnitStartValue: 2
+      equipEffectLevelUpUnitIncreaseRate: 0.18
+      baseOwnerEffectStartValue: 90
+      baseOwnerEffectIncreaseRate: 1.1
+      ownerEffectLevelUpUnitStartValue: 1
+      ownerEffectLevelUpUnitIncreaseRate: 0.09
+    - rank: 4
+      equipmentCount: 4
+      maxLevel: 50
+      baseEquipEffectStartValue: 3240
+      baseEquipEffectIncreaseRate: 1.3
+      equipEffectLevelUpUnitStartValue: 2
+      equipEffectLevelUpUnitIncreaseRate: 0.18
+      baseOwnerEffectStartValue: 360
+      baseOwnerEffectIncreaseRate: 1.1
+      ownerEffectLevelUpUnitStartValue: 1
+      ownerEffectLevelUpUnitIncreaseRate: 0.09
+    - rank: 5
+      equipmentCount: 4
+      maxLevel: 50
+      baseEquipEffectStartValue: 9720
+      baseEquipEffectIncreaseRate: 1.3
+      equipEffectLevelUpUnitStartValue: 2
+      equipEffectLevelUpUnitIncreaseRate: 0.18
+      baseOwnerEffectStartValue: 270
+      baseOwnerEffectIncreaseRate: 1.1
+      ownerEffectLevelUpUnitStartValue: 1
+      ownerEffectLevelUpUnitIncreaseRate: 0.09
+    - rank: 6
+      equipmentCount: 4
+      maxLevel: 50
+      baseEquipEffectStartValue: 29160
+      baseEquipEffectIncreaseRate: 1.3
+      equipEffectLevelUpUnitStartValue: 2
+      equipEffectLevelUpUnitIncreaseRate: 0.18
+      baseOwnerEffectStartValue: 1080
+      baseOwnerEffectIncreaseRate: 1.1
+      ownerEffectLevelUpUnitStartValue: 1
+      ownerEffectLevelUpUnitIncreaseRate: 0.09
+  equipmentType: 3

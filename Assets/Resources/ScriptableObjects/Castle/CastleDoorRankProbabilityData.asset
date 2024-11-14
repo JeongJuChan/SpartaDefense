@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0328d93a087c9a74b92eff3379d581e8, type: 3}
+  m_Name: CastleDoorRankProbabilityData
+  m_EditorClassIdentifier: 
+  datas:
+  - castleDoorLevel: 1
+    rankProbabilities: 4c1d0000c409000000000000000000000000000000000000
+  - castleDoorLevel: 2
+    rankProbabilities: 581b0000c4090000f4010000000000000000000000000000
+  - castleDoorLevel: 3
+    rankProbabilities: 7c150000ac0d000020030000c80000000000000000000000
+  - castleDoorLevel: 4
+    rankProbabilities: 98080000a8160000b0040000160300000a00000000000000
+  - castleDoorLevel: 5
+    rankProbabilities: d0070000c01200006c070000000500001400000000000000
+  - castleDoorLevel: 6
+    rankProbabilities: 0807000030110000d0070000ea0600001e00000000000000
+  - castleDoorLevel: 7
+    rankProbabilities: 40060000a00f000098080000700800002800000000000000
+  - castleDoorLevel: 8
+    rankProbabilities: 78050000100e000060090000f60900003200000000000000
+  - castleDoorLevel: 9
+    rankProbabilities: b0040000800c0000280a0000720b00004600000000000000
+  - castleDoorLevel: 10
+    rankProbabilities: e8030000f00a0000f00a0000ee0c00005a00000000000000
+  - castleDoorLevel: 11
+    rankProbabilities: 84030000c4090000540b0000100e00006400000000000000
+  - castleDoorLevel: 12
+    rankProbabilities: 2003000098080000b80b0000d80e0000c800000000000000
+  - castleDoorLevel: 13
+    rankProbabilities: bc0200006c070000440c0000a00f0000fa0000000a000000
+  - castleDoorLevel: 14
+    rankProbabilities: 58020000a4060000bc0c00002c1000001801000014000000
+  - castleDoorLevel: 15
+    rankProbabilities: f40100008c050000ac0d00009a1000002c0100001e000000
+  - castleDoorLevel: 16
+    rankProbabilities: 5802000008070000740e0000de0d00003601000028000000
+  - castleDoorLevel: 17
+    rankProbabilities: 20030000dc050000b80b000068100000c201000032000000
+  - castleDoorLevel: 18
+    rankProbabilities: bc020000b00400001c0c0000301100001c0200003c000000
+  - castleDoorLevel: 19
+    rankProbabilities: 58020000e8030000aa0a0000881300005802000046000000
+  - castleDoorLevel: 20
+    rankProbabilities: f4010000f40100004c040000bc1b0000bc02000064000000

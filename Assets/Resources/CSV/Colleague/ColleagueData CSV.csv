@@ -1,0 +1,13 @@
+Index,SkillIndex,Hero_Name,NickName,SlotType,등급,ShootingType
+0,21000,RtanRare,윈드브레이커,Rtan_Rare,Rare,Parabola
+1,21015,WarriorCommon,아이언하트,Warrior_Common,Common,Straight
+2,21006,MageMagic,스펠섀도우,Mage_Common,Common,Parabola
+3,21012,RogueCommon,미스트폴,Rogue_Common,Common,Straight
+4,21001,ArcherMagic,포레스트워커,Archer_Magic,Magic,Parabola
+5,21007,PaladinMagic,홀리워더,Paladin_Magic,Magic,Straight
+6,21013,HunterMagic,그리즐리포,Hunter_Magic,Magic,Straight
+7,21002,ShamanElaboration,스톰콜러,Shaman_Elaboration,Elaboration,Straight
+8,21010,PriestElaboration,피스메이커,Priest_Elaboration,Elaboration,Parabola
+9,21014,SummonerElaboration,네크로바인드,Summoner_Elaboration,Elaboration,Parabola
+10,21003,KnightRare,로얄팔라딘,Knight_Rare,Rare,Straight
+11,21009,AssassinRare,레이븐폴,Assassin_Rare,Rare,Straight

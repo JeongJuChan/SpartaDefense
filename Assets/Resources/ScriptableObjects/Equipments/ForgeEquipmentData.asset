@@ -1,0 +1,447 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fbf7b0622299e44b69db41f7ac2af2, type: 3}
+  m_Name: ForgeEquipmentData
+  m_EditorClassIdentifier: 
+  datas:
+  - index: 2000
+    equipmentName: ArrowCommon
+    equipmentNameKR: "\uC554\uC11D \uD654\uC0B4"
+    forgeEquipmentInfo:
+      equipmentType: 1
+      rank: 1
+  - index: 2001
+    equipmentName: ArrowMagic
+    equipmentNameKR: "\uAC15\uCCA0 \uD654\uC0B4"
+    forgeEquipmentInfo:
+      equipmentType: 1
+      rank: 2
+  - index: 2002
+    equipmentName: ArrowElaboration
+    equipmentNameKR: "\uAD00\uD1B5 \uD654\uC0B4"
+    forgeEquipmentInfo:
+      equipmentType: 1
+      rank: 3
+  - index: 2003
+    equipmentName: ArrowRare
+    equipmentNameKR: "\uC740\uBE5B \uD654\uC0B4"
+    forgeEquipmentInfo:
+      equipmentType: 1
+      rank: 4
+  - index: 2004
+    equipmentName: ArrowExcellent
+    equipmentNameKR: "\uC790\uC218\uC815 \uD654\uC0B4"
+    forgeEquipmentInfo:
+      equipmentType: 1
+      rank: 5
+  - index: 2005
+    equipmentName: ArrowEpic
+    equipmentNameKR: "\uD669\uAE08 \uD654\uC0B4"
+    forgeEquipmentInfo:
+      equipmentType: 1
+      rank: 6
+  - index: 2006
+    equipmentName: BowCommon
+    equipmentNameKR: "\uD3C9\uBC94\uD55C \uD65C"
+    forgeEquipmentInfo:
+      equipmentType: 2
+      rank: 1
+  - index: 2007
+    equipmentName: BowMagic
+    equipmentNameKR: "\uB300\uC9C0\uC758 \uD65C"
+    forgeEquipmentInfo:
+      equipmentType: 2
+      rank: 2
+  - index: 2008
+    equipmentName: BowElaboration
+    equipmentNameKR: "\uD669\uAE08\uBE5B \uD65C"
+    forgeEquipmentInfo:
+      equipmentType: 2
+      rank: 3
+  - index: 2009
+    equipmentName: BowRare
+    equipmentNameKR: "\uC2EC\uC5F0\uC758 \uD65C"
+    forgeEquipmentInfo:
+      equipmentType: 2
+      rank: 4
+  - index: 2010
+    equipmentName: BowExcellent
+    equipmentNameKR: "\uC218\uD638\uC790\uC758 \uD65C"
+    forgeEquipmentInfo:
+      equipmentType: 2
+      rank: 5
+  - index: 2011
+    equipmentName: BowEpic
+    equipmentNameKR: "\uBD88\uC0AC\uC870\uC758 \uD65C"
+    forgeEquipmentInfo:
+      equipmentType: 2
+      rank: 6
+  - index: 2012
+    equipmentName: BraceletCommon
+    equipmentNameKR: "\uB2EC\uC758 \uD314\uCC0C"
+    forgeEquipmentInfo:
+      equipmentType: 3
+      rank: 1
+  - index: 2013
+    equipmentName: BraceletMagic
+    equipmentNameKR: "\uBE5B\uC758 \uD314\uCC0C"
+    forgeEquipmentInfo:
+      equipmentType: 3
+      rank: 2
+  - index: 2014
+    equipmentName: BraceletElaboration
+    equipmentNameKR: "\uB300\uC9C0\uC758 \uD314\uCC0C"
+    forgeEquipmentInfo:
+      equipmentType: 3
+      rank: 3
+  - index: 2015
+    equipmentName: BraceletRare
+    equipmentNameKR: "\uBD84\uB178\uC758 \uD314\uCC0C"
+    forgeEquipmentInfo:
+      equipmentType: 3
+      rank: 4
+  - index: 2016
+    equipmentName: BraceletExcellent
+    equipmentNameKR: "\uB9C8\uBC95\uC758 \uD314\uCC0C"
+    forgeEquipmentInfo:
+      equipmentType: 3
+      rank: 5
+  - index: 2017
+    equipmentName: BraceletEpic
+    equipmentNameKR: "\uD0DC\uC591\uC758 \uD314\uCC0C"
+    forgeEquipmentInfo:
+      equipmentType: 3
+      rank: 6
+  - index: 2018
+    equipmentName: BreastCommon
+    equipmentNameKR: "\uAC00\uC8FD \uAC11\uC637"
+    forgeEquipmentInfo:
+      equipmentType: 4
+      rank: 1
+  - index: 2019
+    equipmentName: BreastMagic
+    equipmentNameKR: "\uC5B4\uB460\uC758 \uAC11\uC637"
+    forgeEquipmentInfo:
+      equipmentType: 4
+      rank: 2
+  - index: 2020
+    equipmentName: BreastElaboration
+    equipmentNameKR: "\uC131\uC2A4\uB7EC\uC6B4 \uAC11\uC637"
+    forgeEquipmentInfo:
+      equipmentType: 4
+      rank: 3
+  - index: 2021
+    equipmentName: BreastRare
+    equipmentNameKR: "\uBC14\uB78C\uC758 \uAC11\uC637"
+    forgeEquipmentInfo:
+      equipmentType: 4
+      rank: 4
+  - index: 2022
+    equipmentName: BreastExcellent
+    equipmentNameKR: "\uBCC4\uBE5B\uC758 \uAC11\uC637"
+    forgeEquipmentInfo:
+      equipmentType: 4
+      rank: 5
+  - index: 2023
+    equipmentName: BreastEpic
+    equipmentNameKR: "\uC804\uC0AC\uC758 \uAC11\uC637"
+    forgeEquipmentInfo:
+      equipmentType: 4
+      rank: 6
+  - index: 2024
+    equipmentName: CapeCommon
+    equipmentNameKR: "\uD3C9\uBC94\uD55C \uB9DD\uD1A0"
+    forgeEquipmentInfo:
+      equipmentType: 5
+      rank: 1
+  - index: 2025
+    equipmentName: CapeMagic
+    equipmentNameKR: "\uBD88\uBA78\uC758 \uB9DD\uD1A0"
+    forgeEquipmentInfo:
+      equipmentType: 5
+      rank: 2
+  - index: 2026
+    equipmentName: CapeElaboration
+    equipmentNameKR: "\uC2E0\uC131\uD55C \uB9DD\uD1A0"
+    forgeEquipmentInfo:
+      equipmentType: 5
+      rank: 3
+  - index: 2027
+    equipmentName: CapeRare
+    equipmentNameKR: "\uC554\uD751\uC758 \uB9DD\uD1A0"
+    forgeEquipmentInfo:
+      equipmentType: 5
+      rank: 4
+  - index: 2028
+    equipmentName: CapeExcellent
+    equipmentNameKR: "\uBC14\uB78C\uC758 \uB9DD\uD1A0"
+    forgeEquipmentInfo:
+      equipmentType: 5
+      rank: 5
+  - index: 2029
+    equipmentName: CapeEpic
+    equipmentNameKR: "\uC804\uC124\uC758 \uB9DD\uD1A0"
+    forgeEquipmentInfo:
+      equipmentType: 5
+      rank: 6
+  - index: 2030
+    equipmentName: GauntletCommon
+    equipmentNameKR: "\uAE30\uBCF8 \uAC74\uD2C0\uB9BF"
+    forgeEquipmentInfo:
+      equipmentType: 6
+      rank: 1
+  - index: 2031
+    equipmentName: GauntletMagic
+    equipmentNameKR: "\uAC00\uC8FD \uAC74\uD2C0\uB9BF"
+    forgeEquipmentInfo:
+      equipmentType: 6
+      rank: 2
+  - index: 2032
+    equipmentName: GauntletElaboration
+    equipmentNameKR: "\uAC15\uCCA0 \uAC74\uD2C0\uB9BF"
+    forgeEquipmentInfo:
+      equipmentType: 6
+      rank: 3
+  - index: 2033
+    equipmentName: GauntletRare
+    equipmentNameKR: "\uC2E4\uBC84 \uAC74\uD2C0\uB9BF"
+    forgeEquipmentInfo:
+      equipmentType: 6
+      rank: 4
+  - index: 2034
+    equipmentName: GauntletExcellent
+    equipmentNameKR: "\uC2E0\uC131\uD55C \uAC74\uD2C0\uB9BF"
+    forgeEquipmentInfo:
+      equipmentType: 6
+      rank: 5
+  - index: 2035
+    equipmentName: GauntletEpic
+    equipmentNameKR: "\uB4DC\uB798\uACE4 \uAC74\uD2C0\uB9BF"
+    forgeEquipmentInfo:
+      equipmentType: 6
+      rank: 6
+  - index: 2036
+    equipmentName: HelmetCommon
+    equipmentNameKR: "\uD3C9\uBC94\uD55C \uD22C\uAD6C"
+    forgeEquipmentInfo:
+      equipmentType: 7
+      rank: 1
+  - index: 2037
+    equipmentName: HelmetMagic
+    equipmentNameKR: "\uC5B4\uB460\uC758 \uD22C\uAD6C"
+    forgeEquipmentInfo:
+      equipmentType: 7
+      rank: 2
+  - index: 2038
+    equipmentName: HelmetElaboration
+    equipmentNameKR: "\uC804\uC124\uC758 \uD22C\uAD6C"
+    forgeEquipmentInfo:
+      equipmentType: 7
+      rank: 3
+  - index: 2039
+    equipmentName: HelmetRare
+    equipmentNameKR: "\uC740\uBE5B \uD22C\uAD6C"
+    forgeEquipmentInfo:
+      equipmentType: 7
+      rank: 4
+  - index: 2040
+    equipmentName: HelmetExcellent
+    equipmentNameKR: "\uC6A9\uAE30\uC0AC\uC758 \uD22C\uAD6C"
+    forgeEquipmentInfo:
+      equipmentType: 7
+      rank: 5
+  - index: 2041
+    equipmentName: HelmetEpic
+    equipmentNameKR: "\uC218\uD638\uC790\uC758 \uD22C\uAD6C"
+    forgeEquipmentInfo:
+      equipmentType: 7
+      rank: 6
+  - index: 2042
+    equipmentName: NecklaceCommon
+    equipmentNameKR: "\uD3C9\uBC94\uD55C \uBAA9\uAC78\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 8
+      rank: 1
+  - index: 2043
+    equipmentName: NecklaceMagic
+    equipmentNameKR: "\uBC14\uB78C\uC758 \uBAA9\uAC78\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 8
+      rank: 2
+  - index: 2044
+    equipmentName: NecklaceElaboration
+    equipmentNameKR: "\uB2EC\uBE5B\uC758 \uBAA9\uAC78\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 8
+      rank: 3
+  - index: 2045
+    equipmentName: NecklaceRare
+    equipmentNameKR: "\uBCC4\uBE5B\uC758 \uBAA9\uAC78\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 8
+      rank: 4
+  - index: 2046
+    equipmentName: NecklaceExcellent
+    equipmentNameKR: "\uD0DC\uC591\uC758 \uBAA9\uAC78\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 8
+      rank: 5
+  - index: 2047
+    equipmentName: NecklaceEpic
+    equipmentNameKR: "\uCC9C\uC0C1\uC758 \uBAA9\uAC78\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 8
+      rank: 6
+  - index: 2048
+    equipmentName: RingCommon
+    equipmentNameKR: "\uD3C9\uBC94\uD55C \uBC18\uC9C0"
+    forgeEquipmentInfo:
+      equipmentType: 9
+      rank: 1
+  - index: 2049
+    equipmentName: RingMagic
+    equipmentNameKR: "\uC774\uC2AC\uC758 \uBC18\uC9C0"
+    forgeEquipmentInfo:
+      equipmentType: 9
+      rank: 2
+  - index: 2050
+    equipmentName: RingElaboration
+    equipmentNameKR: "\uC0C8\uBCBD\uC758 \uBC18\uC9C0"
+    forgeEquipmentInfo:
+      equipmentType: 9
+      rank: 3
+  - index: 2051
+    equipmentName: RingRare
+    equipmentNameKR: "\uBD88\uAF43\uC758 \uBC18\uC9C0"
+    forgeEquipmentInfo:
+      equipmentType: 9
+      rank: 4
+  - index: 2052
+    equipmentName: RingExcellent
+    equipmentNameKR: "\uBC88\uAC1C\uC758 \uBC18\uC9C0"
+    forgeEquipmentInfo:
+      equipmentType: 9
+      rank: 5
+  - index: 2053
+    equipmentName: RingEpic
+    equipmentNameKR: "\uC6A9\uC758 \uBC18\uC9C0"
+    forgeEquipmentInfo:
+      equipmentType: 9
+      rank: 6
+  - index: 2054
+    equipmentName: ShoesCommon
+    equipmentNameKR: "\uD3C9\uBC94\uD55C \uC804\uD22C\uD654"
+    forgeEquipmentInfo:
+      equipmentType: 10
+      rank: 1
+  - index: 2055
+    equipmentName: ShoesMagic
+    equipmentNameKR: "\uC740\uC2E0\uC758 \uC804\uD22C\uD654"
+    forgeEquipmentInfo:
+      equipmentType: 10
+      rank: 2
+  - index: 2056
+    equipmentName: ShoesElaboration
+    equipmentNameKR: "\uADF8\uB9BC\uC790\uC758 \uC804\uD22C\uD654"
+    forgeEquipmentInfo:
+      equipmentType: 10
+      rank: 3
+  - index: 2057
+    equipmentName: ShoesRare
+    equipmentNameKR: "\uBBFC\uCCA9\uD55C \uC804\uD22C\uD654"
+    forgeEquipmentInfo:
+      equipmentType: 10
+      rank: 4
+  - index: 2058
+    equipmentName: ShoesExcellent
+    equipmentNameKR: "\uB9F9\uB3C5\uC758 \uC804\uD22C\uD654"
+    forgeEquipmentInfo:
+      equipmentType: 10
+      rank: 5
+  - index: 2059
+    equipmentName: ShoesEpic
+    equipmentNameKR: "\uC6A9\uC758 \uC804\uD22C\uD654"
+    forgeEquipmentInfo:
+      equipmentType: 10
+      rank: 6
+  - index: 2060
+    equipmentName: StaffCommon
+    equipmentNameKR: "\uC77C\uBC18 \uC9C0\uD321\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 11
+      rank: 1
+  - index: 2061
+    equipmentName: StaffMagic
+    equipmentNameKR: "\uACAC\uC2B5 \uB9C8\uBC95\uC0AC\uC758 \uC9C0\uD321\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 11
+      rank: 2
+  - index: 2062
+    equipmentName: StaffElaboration
+    equipmentNameKR: "\uBE44\uC804\uC758 \uC9C0\uD321\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 11
+      rank: 3
+  - index: 2063
+    equipmentName: StaffRare
+    equipmentNameKR: "\uB9C8\uB825\uC758 \uC9C0\uD321\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 11
+      rank: 4
+  - index: 2064
+    equipmentName: StaffExcellent
+    equipmentNameKR: "\uACE0\uAE09 \uB9C8\uBC95\uC0AC\uC758 \uC9C0\uD321\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 11
+      rank: 5
+  - index: 2065
+    equipmentName: StaffEpic
+    equipmentNameKR: "\uB300\uD604\uC790\uC758 \uC9C0\uD321\uC774"
+    forgeEquipmentInfo:
+      equipmentType: 11
+      rank: 6
+  - index: 2066
+    equipmentName: SwordCommon
+    equipmentNameKR: "\uD3C9\uBC94\uD55C \uC7A5\uAC80"
+    forgeEquipmentInfo:
+      equipmentType: 12
+      rank: 1
+  - index: 2067
+    equipmentName: SwordMagic
+    equipmentNameKR: "\uC804\uC0AC\uC758 \uC7A5\uAC80"
+    forgeEquipmentInfo:
+      equipmentType: 12
+      rank: 2
+  - index: 2068
+    equipmentName: SwordElaboration
+    equipmentNameKR: "\uD22C\uC0AC\uC758 \uC7A5\uAC80"
+    forgeEquipmentInfo:
+      equipmentType: 12
+      rank: 3
+  - index: 2069
+    equipmentName: SwordRare
+    equipmentNameKR: "\uC6A9\uB9F9\uC758 \uC7A5\uAC80"
+    forgeEquipmentInfo:
+      equipmentType: 12
+      rank: 4
+  - index: 2070
+    equipmentName: SwordExcellent
+    equipmentNameKR: "\uBD88\uBA78\uC758 \uC7A5\uAC80"
+    forgeEquipmentInfo:
+      equipmentType: 12
+      rank: 5
+  - index: 2071
+    equipmentName: SwordEpic
+    equipmentNameKR: "\uD30C\uAD34\uC758 \uC7A5\uAC80"
+    forgeEquipmentInfo:
+      equipmentType: 12
+      rank: 6

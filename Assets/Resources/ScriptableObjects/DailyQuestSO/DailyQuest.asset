@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 118955f6f3450498e8a7d4aad2ed8f56, type: 3}
+  m_Name: DailyQuest
+  m_EditorClassIdentifier: 
+  datas_1:
+  - QuestPointPerRewards: 0200000002000000020000000200000002000000
+    QuestPointPerRewardAmount: 14000000280000003c0000005000000064000000
+    QuestPointPerRewardPoints: 14000000280000003c0000005000000064000000
+  datas_2:
+  - type: 0
+    Description: "\uC131\uBB38 \uD130\uCE58 n\uBC88"
+    currentCount: 35
+    GoalCount: 5
+    reward: 2
+    amount: 50
+    QuestPoint: 15
+    isCompleted: 1
+    isRewarded: 0
+  - type: 1
+    Description: "\uC601\uC6C5 \uC18C\uD658 n\uBC88"
+    currentCount: 24
+    GoalCount: 3
+    reward: 2
+    amount: 50
+    QuestPoint: 15
+    isCompleted: 1
+    isRewarded: 0
+  - type: 2
+    Description: "\uACE8\uB4DC \uB358\uC804 n\uD68C \uD50C\uB808\uC774 "
+    currentCount: 0
+    GoalCount: 1
+    reward: 2
+    amount: 50
+    QuestPoint: 15
+    isCompleted: 0
+    isRewarded: 0
+  - type: 3
+    Description: "\uC131\uBB38 \uB358\uC804 n\uD68C \uD50C\uB808\uC774"
+    currentCount: 0
+    GoalCount: 1
+    reward: 2
+    amount: 50
+    QuestPoint: 15
+    isCompleted: 0
+    isRewarded: 0
+  - type: 4
+    Description: "\uC7BC \uB358\uC804 n\uD68C \uD50C\uB808\uC774"
+    currentCount: 0
+    GoalCount: 1
+    reward: 2
+    amount: 50
+    QuestPoint: 15
+    isCompleted: 0
+    isRewarded: 0
+  - type: 5
+    Description: "\uC801 \uCC98\uCE58 n\uD68C"
+    currentCount: 249
+    GoalCount: 50
+    reward: 2
+    amount: 50
+    QuestPoint: 15
+    isCompleted: 1
+    isRewarded: 0
+  - type: 6
+    Description: "\uC601\uC6C5 n\uD68C \uB808\uBCA8\uC5C5"
+    currentCount: 1
+    GoalCount: 1
+    reward: 2
+    amount: 50
+    QuestPoint: 15
+    isCompleted: 1
+    isRewarded: 0
+  - type: 8
+    Description: "\uC9C0\uD558 \uB3D9\uAD74 \uB358\uC804 n\uD68C \uD50C\uB808\uC774"
+    currentCount: 0
+    GoalCount: 1
+    reward: 2
+    amount: 50
+    QuestPoint: 15
+    isCompleted: 0
+    isRewarded: 0

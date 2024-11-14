@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c97ec1952a0665147a27edb77b4981ab, type: 3}
+  m_Name: ColleagueProjectileData
+  m_EditorClassIdentifier: 
+  datas:
+  - index: 1000
+    name: RtanCommon
+    colleagueType: 1
+    rank: 1
+  - index: 1001
+    name: RtanMagic
+    colleagueType: 2
+    rank: 2
+  - index: 1002
+    name: RtanElaboration
+    colleagueType: 3
+    rank: 3
+  - index: 1003
+    name: RtanRare
+    colleagueType: 4
+    rank: 4
+  - index: 1004
+    name: WarriorCommon
+    colleagueType: 5
+    rank: 1
+  - index: 1005
+    name: MageCommon
+    colleagueType: 6
+    rank: 1
+  - index: 1006
+    name: RogueCommon
+    colleagueType: 7
+    rank: 1
+  - index: 1007
+    name: ArcherMagic
+    colleagueType: 8
+    rank: 2
+  - index: 1008
+    name: PaladinMagic
+    colleagueType: 9
+    rank: 2
+  - index: 1009
+    name: HunterMagic
+    colleagueType: 10
+    rank: 2
+  - index: 1010
+    name: ShamanElaboration
+    colleagueType: 11
+    rank: 3
+  - index: 1011
+    name: PriestElaboration
+    colleagueType: 12
+    rank: 3
+  - index: 1012
+    name: SummonerElaboration
+    colleagueType: 13
+    rank: 3
+  - index: 1013
+    name: KnightRare
+    colleagueType: 14
+    rank: 4
+  - index: 1014
+    name: AssassinRare
+    colleagueType: 15
+    rank: 4

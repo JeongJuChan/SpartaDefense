@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a52730c0a6d80bb4ba9de2f91f981457, type: 3}
+  m_Name: EnumToKR
+  m_EditorClassIdentifier: 
+  datas:
+  - index: 1
+    enumToKR: "\uACF5\uACA9 \uC18D\uB3C4\r"
+  - index: 2
+    enumToKR: "\uCE58\uBA85\uD0C0 \uD655\uB960\r"
+  - index: 3
+    enumToKR: "\uCE58\uBA85\uD0C0 \uC99D\uD3ED\r"
+  - index: 4
+    enumToKR: "\uD68C\uBCF5\r"
+  - index: 1
+    enumToKR: "\uC77C\uBC18\r"
+  - index: 2
+    enumToKR: "\uB9E4\uC9C1\r"
+  - index: 3
+    enumToKR: "\uC815\uAD50\r"
+  - index: 4
+    enumToKR: "\uB808\uC5B4\r"
+  - index: 5
+    enumToKR: "\uD0C1\uC6D4\r"
+  - index: 6
+    enumToKR: "\uC5D0\uD53D\r"
+  - index: 4
+    enumToKR: "\uB974\uD0C4\r"
+  - index: 5
+    enumToKR: "\uC804\uC0AC\r"
+  - index: 6
+    enumToKR: "\uB9C8\uBC95\uC0AC\r"
+  - index: 7
+    enumToKR: "\uB3C4\uC801\r"
+  - index: 8
+    enumToKR: "\uAD81\uC218\r"
+  - index: 9
+    enumToKR: "\uC131\uAE30\uC0AC\r"
+  - index: 10
+    enumToKR: "\uC0AC\uB0E5\uAFBC\r"
+  - index: 11
+    enumToKR: "\uC8FC\uC220\uC0AC\r"
+  - index: 12
+    enumToKR: "\uC0AC\uC81C\r"
+  - index: 13
+    enumToKR: "\uC18C\uD658\uC0AC\r"
+  - index: 14
+    enumToKR: "\uAE30\uC0AC\r"
+  - index: 15
+    enumToKR: "\uC5B4\uC384\uC2E0\r"
+  - index: 1
+    enumToKR: "\uACE8\uB4DC\r"
+  - index: 2
+    enumToKR: "\uC82C\r"
+  - index: 3
+    enumToKR: "\uC131\uBB38 \uC18C\uD658\uAD8C\r"
+  - index: 4
+    enumToKR: "\uC601\uC6C5 \uAC15\uD654\uC11D\r"
+  - index: 5
+    enumToKR: "\uACE8\uB4DC \uB358\uC804 \uD2F0\uCF13\r"
+  - index: 6
+    enumToKR: "\uACE8\uB4DC \uB358\uC804 \uD2F0\uCF13\r"
+  - index: 7
+    enumToKR: "\uC131\uBB38 \uC18C\uD658 \uB358\uC804 \uD2F0\uCF13\r"
+  - index: 8
+    enumToKR: "\uC82C \uB358\uC804 \uD2F0\uCF13\r"
+  - index: 9
+    enumToKR: "\uC601\uC6C5 \uAC15\uD654\uC11D \uB358\uC804 \uD2F0\uCF13\r"
+  - index: 10
+    enumToKR: "\uAC00\uC18D \uD2F0\uCF13\r"
+  - index: 11
+    enumToKR: "\uC5B4\uBE4C\uB9AC\uD2F0 \uC2A4\uD1A4\r"
+  - index: 12
+    enumToKR: "\uC601\uC6C5 \uC18C\uD658\uAD8C\r"
+  - index: 1
+    enumToKR: "\uACF5\uACA9\uB825\r"
+  - index: 2
+    enumToKR: "\uCCB4\uB825\r"
+  - index: 3
+    enumToKR: "\uBC29\uC5B4\uB825\r"
+  - index: 1
+    enumToKR: "\uCE90\uC2AC\r"
+  - index: 2
+    enumToKR: "\uC18C\uD658\r"
+  - index: 3
+    enumToKR: "\uC601\uC6C5\r"
+  - index: 4
+    enumToKR: "\uC7A5\uBE44\r"
+  - index: 5
+    enumToKR: "\uB358\uC804\r"
+  - index: 6
+    enumToKR: "\uC655\uAD6D\r"
+  - index: 7
+    enumToKR: "\uC601\uC6C5 \uC18C\uD658\r"
+  - index: 8
+    enumToKR: "\uB358\uC804-\uB4DC\uB798\uACE4\uC758 \uB465\uC9C0\r"
+  - index: 9
+    enumToKR: "\uB358\uC804-\uC57C\uC0DD \uB3FC\uC9C0 \uC232\r"
+  - index: 10
+    enumToKR: "\uB358\uC804-\uC800\uC8FC\uBC1B\uC740 \uC232\r"
+  - index: 11
+    enumToKR: "\uB358\uC804-\uC9C0\uD558 \uB3D9\uAD74\r"
+  - index: 12
+    enumToKR: "\uC131\uBB38 \uB808\uBCA8\uC5C5\r"
+  - index: 13
+    enumToKR: "\uC790\uB3D9\r"
+  - index: 14
+    enumToKR: "\uC601\uC6C5 \uC2AC\uB86F 1\r"
+  - index: 15
+    enumToKR: "\uC601\uC6C5 \uC2AC\uB86F 2\r"
+  - index: 16
+    enumToKR: "\uC601\uC6C5 \uC2AC\uB86F 3\r"
+  - index: 17
+    enumToKR: "\uC601\uC6C5 \uC2AC\uB86F 4\r"
+  - index: 18
+    enumToKR: "\uC601\uC6C5 \uC2AC\uB86F 5\r"
+  - index: 19
+    enumToKR: "\uC601\uC6C5 \uC2AC\uB86F 6\r"
+  - index: 20
+    enumToKR: "\uC601\uC6C5 \uC2AC\uB86F 7\r"
+  - index: 21
+    enumToKR: "\uC601\uC6C5 \uC2AC\uB86F 8\r"
+  - index: 22
+    enumToKR: "\uC601\uC6C5 \uC2AC\uB86F 9\r"
+  - index: 23
+    enumToKR: "\uC601\uC6C5 \uC2AC\uB86F 10\r"
+  - index: 24
+    enumToKR: "\uC655\uAD6D-\uBCD1\uC601\r"
+  - index: 25
+    enumToKR: "\uC655\uAD6D-\uC5F0\uAD6C\uC18C\r"
+  - index: 26
+    enumToKR: "\uC655\uAD6D-\uD0B9\uC2A4\uB85C\uB4DC\r"
+  - index: 27
+    enumToKR: "\uC655\uAD6D-\uCD08\uC6D4\uC758 \uBB38\r"
+  - index: 28
+    enumToKR: "\uC655\uAD6D-\uACF5\uC131\uC804\r"
+  - index: 29
+    enumToKR: "\uBCD1\uC601-\uBCD1\uC0AC1\r"
+  - index: 30
+    enumToKR: "\uBCD1\uC601-\uBCD1\uC0AC2\r"
+  - index: 31
+    enumToKR: "\uBCD1\uC601-\uBCD1\uC0AC3\r"
+  - index: 32
+    enumToKR: "\uBCD1\uC601-\uBCD1\uC0AC4\r"
+  - index: 33
+    enumToKR: "\uBCD1\uC601-\uBCD1\uC0AC5\r"
+  - index: 34
+    enumToKR: "\uB3C4\uAC10\r"
+  - index: 35
+    enumToKR: "\uC77C\uC77C \uD018\uC2A4\uD2B8\r"
+  - index: 36
+    enumToKR: "\uC131\uC7A5\r"
+  - index: 1
+    enumToKR: "\uB2E8\uC77C\r"
+  - index: 2
+    enumToKR: "\uBC94\uC704\r"
+  - index: 3
+    enumToKR: "\uBA40\uD2F0"
